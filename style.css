@@ -17,7 +17,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(/pics/clock.png), url(/pics/js.png),
+  background: url(pics/clock.png), url(pics/js.png),
     radial-gradient(
       circle,
       rgb(37, 73, 90) 0%,
